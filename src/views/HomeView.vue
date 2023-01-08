@@ -4,7 +4,7 @@
       <app-image-block/>
     </div>
     <app-about-block/>
-    <!-- <app-industry-carousel/> -->
+    <app-industry-carousel/>
     <!-- <app-testimonial-carousel/> -->
   </div>
 </template>
@@ -13,14 +13,14 @@
 // @ is an alias to /src
 import AppImageBlock from '@/components/AppImageBlock.vue';
 import AppAboutBlock from '@/components/AppAboutBlock.vue';
-// import AppIndustryCarousel from '@/components/AppIndustryCarousel.vue';
+import AppIndustryCarousel from '@/components/AppIndustryCarousel.vue';
 // import AppTestimonialCarousel from '@/components/AppTestimonialCarousel.vue';
 export default {
   name: 'HomeView',
   components: {
     AppImageBlock,
     AppAboutBlock,
-    // AppIndustryCarousel,
+    AppIndustryCarousel,
     // AppTestimonialCarousel
   }
 }
