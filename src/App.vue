@@ -1,4 +1,5 @@
 <template>
+  <app-contact-block/>
   <app-navbar/>
   <router-view/>
   <app-footer/>
@@ -6,12 +7,14 @@
 
 <script>
 import AppNavbar from './components/AppNavbar.vue';
-import AppFooter from './components/AppFooter.vue'
+import AppFooter from './components/AppFooter.vue';
+import AppContactBlock from './components/AppContactBlock.vue';
 
 export default {
   components: {
     AppNavbar,
-    AppFooter
+    AppFooter,
+    AppContactBlock
 }
 }
 

@@ -5,7 +5,7 @@
     </div>
     <app-about-block/>
     <app-industry-carousel/>
-    <!-- <app-testimonial-carousel/> -->
+    <app-testimonials/>
   </div>
 </template>
 
@@ -14,14 +14,14 @@
 import AppImageBlock from '@/components/AppImageBlock.vue';
 import AppAboutBlock from '@/components/AppAboutBlock.vue';
 import AppIndustryCarousel from '@/components/AppIndustryCarousel.vue';
-// import AppTestimonialCarousel from '@/components/AppTestimonialCarousel.vue';
+import AppTestimonials from '../components/AppTestimonials.vue';
 export default {
   name: 'HomeView',
   components: {
     AppImageBlock,
     AppAboutBlock,
     AppIndustryCarousel,
-    // AppTestimonialCarousel
+    AppTestimonials
   }
 }
 </script>

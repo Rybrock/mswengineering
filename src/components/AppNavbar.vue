@@ -78,7 +78,7 @@ export default {
   div.logo img {
     width: 100% !important;
     max-width: 400px !important;
-    height: 150px !important;
+    height: 100px !important;
     padding: 0;
     margin: 0;
   }
