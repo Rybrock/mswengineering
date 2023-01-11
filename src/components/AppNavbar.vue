@@ -3,6 +3,11 @@
     <nav class="p-5">
       <div class="nav-wrapper place-items-center space-x-6 w-full flex">
         <div class="px-0 md:px-5 flex flex-col md:flex-row justify-around items-center space-x-10">
+          <div class="md:hidden flex justify-start items-start w-full" @click.prevent="openCloseNav()">
+            <div>
+              <img src="../assets/menu_FILL0_wght400_GRAD0_opsz48.svg" width="30" height="30" alt="menu icon" class="top-0" />
+            </div>
+          </div>
           <div class="logo">
             <router-link class="navbar-brand" to="/">
               <img
@@ -12,12 +17,9 @@
               />
             </router-link>
           </div>
-          <div class="md:hidden" @click.prevent="openCloseNav()">
-            <img src="../assets/menu_FILL0_wght400_GRAD0_opsz48.svg" width="30" height="30" alt="menu icon" class="md:ml-10 absolute left-5 top-5" />
-          </div>
           <div class="space-x-8 hidden md:flex">
-            <router-link to="/">Home</router-link>
-            <router-link to="/about">About</router-link>
+            <router-link to="/" class="p-2 rounded-lg hover:bg-red-700 hover:text-white">Home</router-link>
+            <router-link to="/about" class="p-2 rounded-lg hover:bg-red-700 hover:text-white">About</router-link>
           </div>
         </div>
       </div>
@@ -60,13 +62,6 @@ export default {
 </script>
 
 <style scoped>
- li:hover {
-    background: #DF2628;
-    border-radius: 10px;
-  }
-  a:hover {
-    color: #ffffff !important;
-  }
   div.logo img {
     width: 100%;
     height: 140px !important;
@@ -82,5 +77,9 @@ export default {
     padding: 0;
     margin: 0;
   }
+  .logo {
+    margin-left: 0 !important;
+  }
+
 }
 </style>

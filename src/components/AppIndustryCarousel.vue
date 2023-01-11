@@ -1,5 +1,5 @@
 <template>
-    <div class="my-36 bg-red-500 p-4">
+    <div class="my-10 md:my-36 bg-red-500 p-4">
         <div>
             <h3 class="font-bold text-2xl text-white mb-10">Industries we cover</h3>
         </div>
