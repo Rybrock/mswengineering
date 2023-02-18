@@ -1,8 +1,8 @@
 <template>
     <div class="flex flex-col md:flex-row justify-center items-center w-full p-2">
-      <div class="flex flex-col place-content-center text-start text-sm space-y-4 p-2 text-black font-semibold">
+      <div class="flex flex-col place-content-center text-start text-sm space-y-4 p-2 text-black">
         <!-- <p>"Commitment" (Noun) - Meaning - the state or quality of being dedicated to a cause or activity.</p> -->
-        <h4 class="w-full">"Commitment" (Noun) - Meaning - the state or quality of being dedicated to a cause or activity.</h4>
+        <h4 class="w-full font-bold">"Commitment" (Noun) - Meaning - the state or quality of being dedicated to a cause or activity.</h4>
         <p>
           Here at MSW, we fundamentally believe our role as a recruitment provider is to create a conduit between both clients and candidates actively seeking assistance within the engineering maintenance and manufacturing sector.  
         </p>

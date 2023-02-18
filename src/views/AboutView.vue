@@ -3,7 +3,7 @@
     <div class="p-2">
       <!-- <h1 class="fs-3 fw-bold text-start p-2 text-muted">Overview of MSW and the areas we cover</h1> -->
     </div>
-    <div class="mx-auto w-full flex flex-col md:flex-row">
+    <div class="mx-auto w-full flex flex-col md:flex-row md:my-16">
       <div class="about-info text-center mx-2 w-full">
         <h3 class="text-red-700 text-start p-2 text-lg">Our Story</h3>
         <p class="p-2 text-start">
@@ -103,16 +103,7 @@
               href="https://www.linkedin.com/search/results/all/?heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAA9IA4UBpAT5Vno2hrXoaj2Lnvbwq-8qucI&keywords=mark%20wilson&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=9b3955a0-8b93-4cb7-a31a-1d585c693281&sid=y4s"
             >
               <div class="w-full">
-                <iframe
-                  src="https://www.linkedin.com/embed/feed/update/urn:li:share:6971456947950624768"
-                  height="350"
-                  width="460"
-                  frameborder="0"
-                  allowfullscreen=""
-                  title="Embedded post"
-                  class="w-full"
-                ></iframe>
-              </div>
+                <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7021820531779719170" height="350" width="460" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>              </div>
             </a>
           </swiper-slide>
           <swiper-slide>
@@ -120,16 +111,7 @@
               href="https://www.linkedin.com/search/results/all/?heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAA9IA4UBpAT5Vno2hrXoaj2Lnvbwq-8qucI&keywords=mark%20wilson&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=9b3955a0-8b93-4cb7-a31a-1d585c693281&sid=y4s"
             >
               <div class="w-full">
-                <iframe
-                  src="https://www.linkedin.com/embed/feed/update/urn:li:share:6973198233778991104"
-                  height="350"
-                  width="460"
-                  frameborder="0"
-                  allowfullscreen=""
-                  title="Embedded post"
-                  class="w-full"
-                ></iframe>
-              </div>
+                <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7021816226431528960" height="350" width="460" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>             </div>
             </a>
           </swiper-slide>
           <swiper-slide>
@@ -137,84 +119,34 @@
               href="https://www.linkedin.com/search/results/all/?heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAA9IA4UBpAT5Vno2hrXoaj2Lnvbwq-8qucI&keywords=mark%20wilson&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=9b3955a0-8b93-4cb7-a31a-1d585c693281&sid=y4s"
             >
               <div class="w-full">
-                <iframe
-                  src="https://www.linkedin.com/embed/feed/update/urn:li:share:6968131123063230464"
-                  height="350"
-                  width="460"
-                  frameborder="0"
-                  allowfullscreen=""
-                  title="Embedded post"
-                  class="w-full"
-                ></iframe>
-              </div>
+                <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7025463932232302592" height="350" width="460" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>             </div>
+            </a>
+          </swiper-slide>
+          <swiper-slide>
+            <a
+              href="https://www.linkedin.com/search/results/all/?heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAA9IA4UBpAT5Vno2hrXoaj2Lnvbwq-8qucI&keywords=mark%20wilson&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=9b3955a0-8b93-4cb7-a31a-1d585c693281&sid=y4s"
+            >
+              <div class="w-full">
+                <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7025870845164027904" height="350" width="460" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>             </div>
+            </a>
+          </swiper-slide>
+          <swiper-slide>
+            <a
+              href="https://www.linkedin.com/search/results/all/?heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAA9IA4UBpAT5Vno2hrXoaj2Lnvbwq-8qucI&keywords=mark%20wilson&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=9b3955a0-8b93-4cb7-a31a-1d585c693281&sid=y4s"
+            >
+              <div class="w-full">
+                <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7026546690853609472" height="350" width="460" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>            </div>
+            </a>
+          </swiper-slide>
+          <swiper-slide>
+            <a
+              href="https://www.linkedin.com/search/results/all/?heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAA9IA4UBpAT5Vno2hrXoaj2Lnvbwq-8qucI&keywords=mark%20wilson&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=9b3955a0-8b93-4cb7-a31a-1d585c693281&sid=y4s"
+            >
+              <div class="w-full">
+                <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7026852599714738177" height="350" width="460" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>            </div>
             </a>
           </swiper-slide>
 
-<swiper-slide>
-            <a
-              href="https://www.linkedin.com/search/results/all/?heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAA9IA4UBpAT5Vno2hrXoaj2Lnvbwq-8qucI&keywords=mark%20wilson&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=9b3955a0-8b93-4cb7-a31a-1d585c693281&sid=y4s"
-            >
-              <div class="w-full">
-                <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6984240354052972545" height="350" width="460" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-              </div>
-            </a>
-          </swiper-slide>
-          <swiper-slide>
-            <a
-              href="https://www.linkedin.com/search/results/all/?heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAA9IA4UBpAT5Vno2hrXoaj2Lnvbwq-8qucI&keywords=mark%20wilson&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=9b3955a0-8b93-4cb7-a31a-1d585c693281&sid=y4s"
-            >
-              <div class="w-full">
-                <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6985160952123944960" height="350" width="460" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-              </div>
-            </a>
-          </swiper-slide>
-          <swiper-slide>
-            <a
-              href="https://www.linkedin.com/search/results/all/?heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAA9IA4UBpAT5Vno2hrXoaj2Lnvbwq-8qucI&keywords=mark%20wilson&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=9b3955a0-8b93-4cb7-a31a-1d585c693281&sid=y4s"
-            >
-              <div class="w-full">
-                <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6985259953288552448" height="350" width="460" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-              </div>
-            </a>
-          </swiper-slide>
-
-
-          <swiper-slide>
-            <a
-              href="https://www.linkedin.com/search/results/all/?heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAA9IA4UBpAT5Vno2hrXoaj2Lnvbwq-8qucI&keywords=mark%20wilson&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=9b3955a0-8b93-4cb7-a31a-1d585c693281&sid=y4s"
-            >
-              <div class="w-full">
-                <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6985579758445023232" height="350" width="460" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-              </div>
-            </a>
-          </swiper-slide>
-          <swiper-slide>
-            <a
-              href="https://www.linkedin.com/search/results/all/?heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAA9IA4UBpAT5Vno2hrXoaj2Lnvbwq-8qucI&keywords=mark%20wilson&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=9b3955a0-8b93-4cb7-a31a-1d585c693281&sid=y4s"
-            >
-              <div class="w-full">
-                <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6987764526553178112" height="350" width="460" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-              </div>
-            </a>
-          </swiper-slide>
-          <swiper-slide>
-            <a
-              href="https://www.linkedin.com/search/results/all/?heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAA9IA4UBpAT5Vno2hrXoaj2Lnvbwq-8qucI&keywords=mark%20wilson&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=9b3955a0-8b93-4cb7-a31a-1d585c693281&sid=y4s"
-            >
-              <div class="w-full">
-                <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6988435492157407232" height="350" width="460" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-              </div>
-            </a>
-          </swiper-slide>
-          <swiper-slide>
-            <a
-              href="https://www.linkedin.com/search/results/all/?heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAA9IA4UBpAT5Vno2hrXoaj2Lnvbwq-8qucI&keywords=mark%20wilson&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=9b3955a0-8b93-4cb7-a31a-1d585c693281&sid=y4s"
-            >
-              <div class="w-full">
-                <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6993220536604450818" height="350" width="460" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-              </div>
-            </a>
-          </swiper-slide>
         </swiper>
       </div>
     </div>

@@ -37,7 +37,7 @@
         }"
       >
         <swiper-slide v-for="(item, index) in testimonials" :key="index">
-          <div class="card w-full text-center">
+          <div class="card w-full text-center p-4 border">
             <div class="card-body w-full">
               <h5 class="card-title text-red-700 font-bold">
                 {{ item.title }}
